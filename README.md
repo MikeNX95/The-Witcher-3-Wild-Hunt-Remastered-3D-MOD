@@ -3,7 +3,7 @@
 
 
 ## 📦 Installation
-1. Download `wit3D.zip`.
+1. Download and extract `wit3D.zip`.
 2. Place `dxgi.dll` / `3D-6DOF config.ini` and `3D-6DOF resolution.ini` into your main game directory right next to `game.exe`.
 3. Launch the game and enjoy!
 
